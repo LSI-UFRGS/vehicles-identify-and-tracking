@@ -5,3 +5,7 @@
 4. ROI_selector: essa é a parte que o Luiz fez e eu estou comentando e pretendo disponibilizar como notebook - também tem a parte de análise. Minha ideia é colocar tudo num notebook apenas
 
 A medida que nós formos avançando eu vou organizando e ilustrando melhor 
+
+# Descrição do workflow:
+1. Ter uma conta Google com acesso à pasta compartilhada "**vehicles-identify-and-tracking**" originária da conta do Prof. Valner. Essa pasta contém todos os datasets e arquivos pesados usados nos programas.
+2. Ter uma conta do github com acesso de colaborador a esse repositório (capaz de fazer pull e push)
