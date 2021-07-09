@@ -1,6 +1,6 @@
 # img_processing_py_scripts
 
-* @desc.: Repository with numerous different python image processing scripts.
+* @desc.: Repository with numerous usefull python image processing scripts.
 
 ## blurFilter [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
