@@ -1,0 +1,3 @@
+[submodule "deep_sort_training/cosine_metric_learning"]
+	path = deep_sort_training/cosine_metric_learning
+	url = git@github.com:ricardodeazambuja/cosine_metric_learning.git
