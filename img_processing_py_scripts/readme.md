@@ -6,7 +6,7 @@
 
 * @author: Felipe Fitarelli
 
-* @desc.: todo
+* @desc.: Filter that receives images with mutiple classes of objects and make copies of them with each class separetly.
 
 ## class_balancer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
@@ -30,7 +30,7 @@
 
 * @author: Felipe Fitarelli
 
-* @desc.: todo
+* @desc.: Script that counts the number os objects by class in a dataset. 
 
 ## motion_detection [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
