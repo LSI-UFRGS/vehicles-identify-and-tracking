@@ -6,7 +6,7 @@
 
 * @author: Felipe Fitarelli
 
-* @desc.: Filter that receives images with mutiple classes of objects and make copies of them with each class separetly.
+* @desc.: Filter that receives images (and its labels) with multiple classes of objects and make copies of them with each class separetly.
 
 ## class_balancer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
