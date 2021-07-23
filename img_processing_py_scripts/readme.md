@@ -30,7 +30,7 @@
 
 * @author: Felipe Fitarelli
 
-* @desc.: Script that counts the number os objects by class in a dataset. 
+* @desc.: Script that counts the number of objects by class in a dataset. 
 
 ## motion_detection [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
