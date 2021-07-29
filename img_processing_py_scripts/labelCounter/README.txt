@@ -1,22 +1,21 @@
 """
 @author: Felipe Fitarelli
 """
+The file 'classes.txt' must be on the same directory as the script file. 
+The images and its labels need to be placed on a main folder, called 'images', and inside subfolders as many as wanted. 
 
-O arquivo 'classes.txt' deve estar no mesmo diretório do arquivo script. As imagens, com seus labels, devem ser colocadas em uma pasta principal chamada 'images':
-dentro de tal pasta, devem ser colocadas as pastas desejadas contendo todos os arquivos.
-
-Exemplo:
+Example:
 
 	classes.txt
 	labelCounter.py
-	images
-		Folder1
+	/images
+		/Folder1
 			Image1.jpg
 			Image1.txt
-		Folder2
+		/Folder2
 			ImageN.jpg
 			ImageN.txt
-		Folder3
+		/FolderN
 			ImageN.jpg
 			ImageN.txt
 		...
